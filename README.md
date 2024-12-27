@@ -12,7 +12,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GauravKanwasi&theme=dark)
 
 ## 🖥️ My Latest Repositories:
-[![My Project](https://github-readme-stats.vercel.app/api/pin/?username=GauravKanwasi&repo=your-repo&theme=dark)](https://github.com/your-username/your-repo)
+[![My Project](https://github-readme-stats.vercel.app/api/pin/?username=GauravKanwasi&repo=your-repo&theme=dark)](https://github.com/GauravKanwasi/your-repo)
 
 ## 📊 GitHub Activity:
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GauravKanwasi&theme=dark)
