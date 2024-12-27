@@ -1,90 +1,74 @@
-# 🚀 Welcome to My GitHub Profile! 🚀
+# 👨‍💻 Hello! I'm Gaurav Kanwasi 👋
 
-Hi! I'm **Gaurav Kanwasi** 👋, a passionate coder and self-taught developer. I love building projects and learning new technologies to solve real-world problems. I’m constantly improving my skills and experimenting with new ideas! 💡
+Welcome to my GitHub profile! I'm a **beginner** developer passionate about learning and building things. I'm exploring the world of **coding** and **open-source**, and excited to grow and share my journey with you.
 
-## 👨‍💻 About Me
-- 🔭 I’m currently exploring **Machine Learning** and building AI-driven projects.
-- 🌱 I’m always learning new things and improving my skills in **JavaScript**, **Python**, and **Web Development**.
-- 🚀 I'm working solo, building projects at my own pace, and collaborating with **open-source communities** when possible.
-- 💬 I enjoy discussing coding, tech, and **AI**—feel free to ask me anything!
-- 🌍 I believe in **self-improvement** and **innovation**—one step at a time!
+🌱 I’m currently learning:
+- **JavaScript**
+- **Python**
+- **HTML/CSS**
+- Exploring **Machine Learning** and **AI** (still a beginner)
 
----
+## 📊 GitHub Stats
 
-## 🔥 My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravKanwasi&show_icons=true&count_private=true&theme=blue-green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravKanwasi&show_icons=true&count_private=true&theme=radical)
 
 ---
 
-## 🏆 GitHub Streak
+## 🏆 My GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GauravKanwasi&theme=blue-green)
-
----
-
-## 🖥️ Featured Projects
-
-Check out some of the cool projects I’m working on. These projects reflect my journey as I build and learn new things. ✨
-
-### 🌟 [**AI Chatbot Project**](https://github.com/GauravKanwasi/ai-chatbot)
-A fun AI-powered chatbot built with Python and NLP! It's still a work in progress, but I’m constantly improving it.
-
-[![AI Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=GauravKanwasi&repo=ai-chatbot&theme=blue-green)](https://github.com/GauravKanwasi/ai-chatbot)
-
-### 🕹️ [**Personal Portfolio Website**](https://github.com/GauravKanwasi/portfolio)
-I built this portfolio website to showcase my projects and tell my story. It’s a work in progress, but it's constantly evolving!
-
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=GauravKanwasi&repo=portfolio&theme=blue-green)](https://github.com/GauravKanwasi/portfolio)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GauravKanwasi&theme=radical)
 
 ---
 
-## 🧰 Technologies I’m Exploring 🛠️
+## 🖥️ Projects & Repositories
 
-I’m currently working with the following technologies and learning new things every day:
+I’m still getting started, but here’s where I’ll share my projects as I learn and experiment. Stay tuned for more!
 
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Python, Node.js
-- **Machine Learning**: TensorFlow, Keras, Scikit-learn
-- **DevOps Tools**: Git, Docker
-- **Databases**: MongoDB, MySQL
+### 📁 [My First Project](https://github.com/GauravKanwasi/my-first-project)
+This will be my first repository! I’ll start by working on basic **JavaScript** and **Python** projects to learn and share what I create.
 
----
-
-## 📚 Recent Blog Posts (Coming Soon!)
-
-I’m in the process of writing some posts to share my learning experience and thoughts on **AI**, **Machine Learning**, and **web development**. Stay tuned! 📖
-
-- 📝 [How I Built My First Chatbot](https://medium.com/@gauravkanwasi/how-i-built-my-first-chatbot-1d3d3f6acb27)
-- 📝 [Machine Learning: My Journey So Far](https://medium.com/@gauravkanwasi/machine-learning-my-journey-so-far-7babc12345ef)
+[![My First Project](https://github-readme-stats.vercel.app/api/pin/?username=GauravKanwasi&repo=my-first-project&theme=radical)](https://github.com/GauravKanwasi/my-first-project)
 
 ---
 
-## 🚀 Fun Facts About Me
+## 💡 Fun Facts
 
-Here are a few fun things about me to keep it personal and real:
-
-- 🎮 **Gaming**: I love to unwind with a good video game or solve **puzzles**.
-- 💻 **Learning by Building**: I believe in learning by doing. Most of my learning comes from building personal projects.
-- 🌱 **Growth Mindset**: Every day is a learning experience, and I love to push myself further.
-- 🤖 **Future Projects**: I’m working on a new **AI project** that will help with **natural language processing** (NLP) – excited to see where this goes!
+- I'm learning **web development** and working on small projects to practice.
+- I love experimenting with **Machine Learning** and hope to build my first **AI model** soon.
+- I'm always looking to improve my coding skills and excited about what I’ll create next.
 
 ---
 
-## 🌐 Let's Connect
+## 🧰 Technologies I’m Exploring
 
-I may be working solo, but I love to interact with others in the tech community! You can connect with me through:
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Python
+- **Data Science**: Exploring with **Pandas** and **NumPy**
+- **Machine Learning**: Trying out **Scikit-learn** and **TensorFlow**
+
+---
+
+## 🌐 Connect with Me
+
+I'm a beginner, but I love connecting with other developers to learn from each other. Feel free to reach out!
 
 - 🐦 [Twitter](https://twitter.com/gauravkanwasi)
-- 📧 [Email](mailto:kanwasigaurav96@gmail.com)
+- 📧 [Email](mailto:kanwasigaurav96i@gmail.com)
 
 ---
 
-## 🏅 Achievements
+## 🚀 Contribution Graph
 
-- 💼 Contributed to **Machine Learning** projects on GitHub and made improvements in AI models.
-- 🏆 Participated in **Hacktoberfest** 2024 – opened multiple pull requests!
-- 🏅 Actively learning and experimenting with **NLP**, **AI**, and **Deep Learning**.
+I’m just getting started, but I’ll be adding more to my repositories. Keep an eye out as I start contributing to more projects!
+
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=GauravKanwasi&theme=github)
+
+---
+
+## 🏅 Achievements & Recognition
+
+- 🏆 **Learning by Doing**: I’m excited to learn new skills and build small projects.
+- 🎯 **Contributions Coming Soon**: Looking forward to contributing to open-source and collaborating on fun projects!
 
 ---
 
