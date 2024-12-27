@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**GauravKanwasi/GauravKanwasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me:
+- 🚀 Passionate about coding and open-source contributions.
+- 🌱 Currently learning Machine Learning and AI.
+- 📍 Based in [Your Location].
 
-Here are some ideas to get you started:
+## 🔥 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
+
+## 🖥️ My Latest Repositories:
+[![My Project](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo&theme=dark)](https://github.com/your-username/your-repo)
+
+## 📊 GitHub Activity:
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=dark)
+
+## 🧰 Technologies I Work With:
+- JavaScript
+- Python
+- HTML
+- JS
+- ML
+
+## 🌐 My Socials:
+- [Twitter](https://twitter.com/gauravkanwasi)
