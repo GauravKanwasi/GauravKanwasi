@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Gaurav Kanwasi 👋
 
 ## 👨‍💻 About Me:
 - 🚀 Passionate about coding and open-source contributions.
