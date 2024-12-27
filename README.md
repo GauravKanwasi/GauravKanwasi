@@ -6,16 +6,16 @@
 - 📍 Based in [Your Location].
 
 ## 🔥 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravKanwasi&show_icons=true&theme=dark)
 
 ## 🏆 GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GauravKanwasi&theme=dark)
 
 ## 🖥️ My Latest Repositories:
-[![My Project](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo&theme=dark)](https://github.com/your-username/your-repo)
+[![My Project](https://github-readme-stats.vercel.app/api/pin/?username=GauravKanwasi&repo=your-repo&theme=dark)](https://github.com/your-username/your-repo)
 
 ## 📊 GitHub Activity:
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=dark)
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GauravKanwasi&theme=dark)
 
 ## 🧰 Technologies I Work With:
 - JavaScript
