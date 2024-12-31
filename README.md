@@ -8,7 +8,9 @@ Welcome to my GitHub profile! I'm a **beginner** developer passionate about lear
 - **HTML/CSS**
 - Exploring **Machine Learning** and **AI** (still a beginner) 🤖
 
-![Coding GIF](https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+<div align="center">
+  <img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="200">
+</div>
 
 ---
 
@@ -16,11 +18,18 @@ Welcome to my GitHub profile! I'm a **beginner** developer passionate about lear
 
 ### Dynamic Language Stats (Interactive Chart)
 
+<p align="left">
+  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravKanwasi&langs_count=6&layout=compact&theme=radical" alt="Gaurav Kanwasi Language Stats">
+</p>
+
 ### Language Usage in Projects
-- **JavaScript**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-- **Python**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- **HTML5**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- **CSS3**: ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<div style="display: flex; align-items: center;">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" width="80" height="30">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="80" height="30">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="80" height="30">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="80" height="30">
+</div>
 
 ---
 
@@ -45,7 +54,9 @@ This will be my first repository! I’ll start by working on basic **JavaScript*
 
 [![My First Project](https://github-readme-stats.vercel.app/api/pin/?username=GauravKanwasi&repo=my-first-project&theme=radical)](https://github.com/GauravKanwasi/my-first-project)
 
-![Project GIF](https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif)
+<div style="display: flex; align-items: center;">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif" width="300" height="200">
+</div>
 
 ---
 
@@ -54,8 +65,6 @@ This will be my first repository! I’ll start by working on basic **JavaScript*
 - I'm learning **web development** and working on small projects to practice.
 - I love experimenting with **Machine Learning** and hope to build my first **AI model** soon.
 - I'm always looking to improve my coding skills and excited about what I’ll create next.
-
-![Learning GIF](https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ---
 
@@ -75,7 +84,9 @@ This will be my first repository! I’ll start by working on basic **JavaScript*
 - **Scikit-learn** ![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - **TensorFlow** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-![Tech GIF](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)
+<div style="display: flex; align-items: center;">
+  <img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" width="300" height="200">
+</div>
 
 ---
 
@@ -86,7 +97,9 @@ I'm a beginner, but I love connecting with other developers to learn from each o
 - 🐦 [Twitter](https://twitter.com/gauravkanwasi)
 - 📧 [Email](mailto:kanwasigaurav96i@gmail.com)
 
-![Connect GIF](https://media1.tenor.com/images/a8e963f6d83f61bf82c90f5a8c2a26b5/tenor.gif?itemid=15614780)
+<div style="display: flex; align-items: center;">
+  <img src="https://media1.tenor.com/images/a8e963f6d83f61bf82c90f5a8c2a26b5/tenor.gif?itemid=15614780" width="300" height="200">
+</div>
 
 ---
 
