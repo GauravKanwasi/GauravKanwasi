@@ -8,9 +8,7 @@ Welcome to my GitHub profile! I'm a **beginner** developer passionate about lear
 - **HTML/CSS**
 - Exploring **Machine Learning** and **AI** (still a beginner) 🤖
 
-<div align="center">
-  <img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="200">
-</div>
+
 
 ---
 
@@ -53,10 +51,6 @@ I’m still getting started, but here’s where I’ll share my projects as I le
 This will be my first repository! I’ll start by working on basic **JavaScript** and **Python** projects to learn and share what I create.
 
 [![My First Project](https://github-readme-stats.vercel.app/api/pin/?username=GauravKanwasi&repo=my-first-project&theme=radical)](https://github.com/GauravKanwasi/my-first-project)
-
-<div style="display: flex; align-items: center;">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif" width="300" height="200">
-</div>
 
 ---
 
