@@ -10,6 +10,19 @@ Welcome to my GitHub profile! I'm a **beginner** developer passionate about lear
 
 ---
 
+## 🔧 **Most Used Languages & Tools** 🛠️
+
+Here are the languages and tools I've been using the most in my development journey:
+
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+- **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- **HTML5** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- **CSS3** ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- **Jupyter** ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+- **VS Code** ![VS Code](https://img.shields.io/badge/-VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravKanwasi&show_icons=true&count_private=true&theme=radical)
