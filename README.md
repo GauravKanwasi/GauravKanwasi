@@ -3,10 +3,10 @@
 Welcome to my GitHub profile! I'm a **beginner** developer passionate about learning and building things. I'm exploring the world of **coding** and **open-source**, and excited to grow and share my journey with you.
 
 🌱 I’m currently learning:
-- **JavaScript**
-- **Python**
-- **HTML/CSS**
-- Exploring **Machine Learning** and **AI** (still a beginner)
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+- **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- **HTML/CSS** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- Exploring **Machine Learning** and **AI** (still a beginner) 🤖
 
 ## 📊 GitHub Stats
 
@@ -41,10 +41,10 @@ This will be my first repository! I’ll start by working on basic **JavaScript*
 
 ## 🧰 Technologies I’m Exploring
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python
-- **Data Science**: Exploring with **Pandas** and **NumPy**
-- **Machine Learning**: Trying out **Scikit-learn** and **TensorFlow**
+- **Frontend**: HTML, CSS, JavaScript ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+- **Backend**: Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- **Data Science**: Exploring with **Pandas** ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) and **NumPy** ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+- **Machine Learning**: Trying out **Scikit-learn** ![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) and **TensorFlow** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ---
 
@@ -69,6 +69,3 @@ I’m just getting started, but I’ll be adding more to my repositories. Keep a
 
 - 🏆 **Learning by Doing**: I’m excited to learn new skills and build small projects.
 - 🎯 **Contributions Coming Soon**: Looking forward to contributing to open-source and collaborating on fun projects!
-
----
-
