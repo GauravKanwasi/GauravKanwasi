@@ -1,4 +1,4 @@
-# 👨‍💻 Hello! I'm Gaurav Kanwasi 👋
+# 👨‍💻 Hello! I'm Gaurav Singh 👋
 
 Welcome to my GitHub profile! I'm a **beginner** developer passionate about learning and building things. I'm exploring the world of **coding** and **open-source**, and excited to grow and share my journey with you.
 
